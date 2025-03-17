@@ -1,12 +1,86 @@
-# React + Vite
+# Shadow Monarch's Gambit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Game Version](https://img.shields.io/badge/version-0.1.0_alpha-blue)
+![React](https://img.shields.io/badge/React-18.x-61dafb)
+![Three.js](https://img.shields.io/badge/Three.js-Latest-black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8)
 
-Currently, two official plugins are available:
+A tactical turn-based strategy game inspired by Solo Leveling, where players command shadow armies in an immersive 3D environment. Built with React, Three.js, and modern web technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 Current Features
 
-## Expanding the ESLint configuration
+- **Stylish Main Menu**: Solo Leveling-inspired UI with glowing effects and atmospheric design
+- **3D Background**: Interactive scene with rotating crystal and star field
+- **Responsive Design**: Seamless experience across different devices
+- **Modern Stack**: Built with Vite, React, Three.js, and Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+Visit the game at: [Shadow Monarch's Gambit](https://shadow-monarch-game-hisham86s-projects.vercel.app)
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: React with Vite
+- **3D Graphics**: Three.js with React Three Fiber
+- **Styling**: Tailwind CSS with custom animations
+- **Deployment**: Vercel
+
+## 🎯 Development Status
+
+Currently in early alpha (v0.1.0), implementing core features:
+- [x] Main Menu UI
+- [x] 3D Scene Integration
+- [x] Basic Animations
+- [ ] Game Board
+- [ ] Combat System
+- [ ] Shadow Army Units
+- [ ] Save/Load System
+- [ ] Settings Menu
+- [ ] Sound Effects & Music
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- npm (v9 or higher)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/hisham86/shadow-monarch.git
+cd shadow-monarch
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Open your browser and navigate to `http://localhost:5173`
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🎨 Credits
+
+- Game Design & Development: [Hisham]
+- Inspiration: Solo Leveling
+- 3D Assets: [To be added]
+- Sound Effects: [To be added]
+
+## 📞 Contact
+
+- GitHub: [@hisham86](https://github.com/hisham86)
+- Project Link: [https://github.com/hisham86/shadow-monarch](https://github.com/hisham86/shadow-monarch)
